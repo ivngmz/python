@@ -1,1 +1,1 @@
-# Repo python with some snipets
+# Repo python with some snippets
