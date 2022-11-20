@@ -4,11 +4,11 @@ import psycopg2
 # https://www.lfd.uci.edu/~gohlke/pythonlibs/
 # Descargo: https://download.lfd.uci.edu/pythonlibs/x6hvwk7i/psycopg2-2.9.2-cp39-cp39-win_amd64.whl
 
-# docker run -d     --name some-postgres     -e POSTGRES_PASSWORD=Zaragoza2020 -p 5432:5432     -e PGDATA=/var/lib/postgresql/data/pgdata     -v /custom/mount:/var/lib/postgresql/data     postgres
+# docker run -d     --name some-postgres     -e POSTGRES_PASSWORD=Password -p 5432:5432     -e PGDATA=/var/lib/postgresql/data/pgdata     -v /custom/mount:/var/lib/postgresql/data     postgres
 # docker exec -it 02ee0b8bed45 /bin/bash
 # postgres psql -U postgres
 # create database store;
-# create user developMan with encrypted password 'Zaragoza2020';
+# create user developMan with encrypted password 'Password';
 # grant all privileges on database store to developMan;
 
 
