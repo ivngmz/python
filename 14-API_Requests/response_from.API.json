@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 14805,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "The stock market 'casino' is closed",
+            "description": "Investors have learned a bunch of hard lessons so far in 2022. The stock market doesn't always go up. And factors such as the economy, earnings and valuations, which might sound like quaint relics of a bygone era, still matter even in a world seemingly domina\u2026",
+            "url": "https://www.cnn.com/2022/05/31/investing/stock-market-investing-trading/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220531080640-stock-market-investing-trading-super-tease.jpg",
+            "publishedAt": "2022-05-31T16:18:19Z",
+            "content": "New York (CNN Business)Investors have learned a bunch of hard lessons so far in 2022. The stock market doesn't always go up. And factors such as the economy, earnings and valuations, which might soun\u2026 [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica",
+            "title": "Next sign of the market apocalypse: Single-stock ETFs",
+            "description": "The Wall Street gambling parlor is still alive and well.",
+            "url": "https://www.cnn.com/2022/07/26/investing/single-stock-etfs/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220715134025-nyse-0714.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-26T15:36:03Z",
+            "content": "The Wall Street gambling parlor is still alive and well. \r\nAsset management firm AXS Investments recently launched funds that let investors make supersized bets on or against the daily performance of\u2026 [+4109 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica",
+            "title": "Don't worry, there's still hope for the stock market",
+            "description": "The back-to-back huge market rallies last week may seem like a distant memory to investors now that stocks have slid for the past four days. Stocks are up modestly so far on Tuesday though.",
+            "url": "https://www.cnn.com/2022/10/11/investing/stocks-volatility-bottom/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011084746-stock-market-volatility.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-11T15:56:41Z",
+            "content": "The back-to-back huge market rallies last week may seem like a distant memory to investors now that stocks have slid for the past four days. Stocks are up modestly so far on Tuesday though. \r\nWorries\u2026 [+3960 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Stock market tumble draws bargain hunters - Reuters",
+            "description": "Some traders took advantage of Tuesday's massive selloff in the U.S. stock market to go bottom fishing in stocks and options in hopes of picking up cheap upside bets on a quick market rebound.",
+            "url": "https://www.reuters.com/markets/europe/stock-market-tumble-draws-bargain-hunters-2022-09-14/",
+            "urlToImage": "https://www.reuters.com/resizer/vNSQrnO1It0a3a083wlnkfamsPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6YQ2DCD6YBMP3PBB3EZVUS6NNQ.jpg",
+            "publishedAt": "2022-09-14T18:28:00Z",
+            "content": "NEW YORK, Sept 14 (Reuters) - Some traders took advantage of Tuesday's massive selloff in the U.S. stock market to go bottom fishing in stocks and options in hopes of picking up cheap upside bets on \u2026 [+2816 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Column: Oil market signals need for emergency stock release - Reuters",
+            "description": "Oil futures prices are now anticipating a severe shortage of petroleum as sanctions imposed by the United States and the European Union disrupt exports of crude and refined products from Russia.",
+            "url": "https://www.reuters.com/business/energy/oil-market-signals-need-emergency-stock-release-kemp-2022-03-01/",
+            "urlToImage": "https://www.reuters.com/resizer/zfZxhVHTQXuBTQfcwrQbepzEtRs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUR3HBNIDZLSLESCUUWVW3556E.jpg",
+            "publishedAt": "2022-03-01T16:41:00Z",
+            "content": "LONDON, March 1 (Reuters) - Oil futures prices are now anticipating a severe shortage of petroleum as sanctions imposed by the United States and the European Union disrupt exports of crude and refine\u2026 [+3122 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bear market beckons as US stock slide deepens - Reuters.com",
+            "description": "The stock market's brutal year neared a grim milestone as the S&P 500's slide on Friday threatened to leave it in a bear market for the first time since March 2020, fueled by worries over sky high inflation, a hawkish Federal Reserve and future economic growt\u2026",
+            "url": "https://www.reuters.com/markets/europe/bear-market-beckons-us-stock-slide-deepens-2022-05-20/",
+            "urlToImage": "https://www.reuters.com/resizer/puScCP_72GbMa-tuzMHK1g5-EYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O7LHSX4UMROEPAJOMCSSGJFZPM.jpg",
+            "publishedAt": "2022-05-20T17:37:00Z",
+            "content": "NEW YORK, May 20 (Reuters) - The stock market's brutal year neared a grim milestone as the S&amp;P 500's slide on Friday threatened to leave it in a bear market for the first time since March 2020, f\u2026 [+2847 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Sterling rises against dollar as stock market rallies - Reuters.com",
+            "description": "Sterling strengthened against the dollar on Monday as global risk sentiment improved, lifting European equities.",
+            "url": "https://www.reuters.com/markets/us/sterling-rises-against-dollar-stock-market-rallies-2022-06-27/",
+            "urlToImage": "https://www.reuters.com/resizer/7k3HbkbEa11JM1UbyZQyReTfnQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HWCBWLCTJZLF7JCVRE7GM4OB74.jpg",
+            "publishedAt": "2022-06-27T08:36:00Z",
+            "content": "LONDON, June 27 (Reuters) - Sterling strengthened against the dollar on Monday as global risk sentiment improved, lifting European equities.\r\nRisk sensitive sterling has shown a strong correlation wi\u2026 [+1543 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Kuwait's Alghanim Industries considering flotation on stock market - Reuters",
+            "description": "Kuwait conglomerate Alghanim Industries is considering selling a minority stake in the company through an initial public offering, according to an internal memo seen by Reuters.",
+            "url": "https://www.reuters.com/markets/europe/kuwaits-alghanim-industries-considering-flotation-stock-market-memo-2022-08-07/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=106",
+            "publishedAt": "2022-08-07T11:42:00Z",
+            "content": "KUWAIT CITY, Aug 7 (Reuters) - Kuwait conglomerate Alghanim Industries is considering selling a minority stake in the company through an initial public offering, according to an internal memo seen by\u2026 [+1133 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Slumping U.S. stock market technical indicators flash warning sign - Reuters.com",
+            "description": "Indicators that investors use to gauge the health of the U.S. stock market have taken a turn for the worse, fueling worries that the benchmark index may revisit its mid-June bear market low.",
+            "url": "https://www.reuters.com/markets/europe/slumping-us-stock-market-technical-indicators-flash-warning-sign-2022-09-09/",
+            "urlToImage": "https://www.reuters.com/resizer/RGrPn4UVEdriEds86L3qon3hSLo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7N6PADXMJVMEHME5JPTPNN7V54.jpg",
+            "publishedAt": "2022-09-09T05:10:00Z",
+            "content": "NEW YORK, Sept 9 (Reuters) - Indicators that investors use to gauge the health of the U.S. stock market have taken a turn for the worse, fueling worries that the benchmark index may revisit its mid-J\u2026 [+4642 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Stock market bulls eye technical signal for further gains - Reuters",
+            "description": "Some stock market bulls are watching a technical indicator for clues on whether a summer rebound in U.S. equities will roll on.",
+            "url": "https://www.reuters.com/markets/us/stock-market-bulls-eye-technical-signal-further-gains-2022-08-12/",
+            "urlToImage": "https://www.reuters.com/resizer/8lxsM-sCtcxrdTmxwetIZ-9othQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7I6PTB44ZRKFFIQFYODRORNWJM.jpg",
+            "publishedAt": "2022-08-12T04:33:00Z",
+            "content": "NEW YORK, Aug 12 (Reuters) - Some stock market bulls are watching a technical indicator for clues on whether a summer rebound in U.S. equities will roll on.\r\nThe S&amp;P 500 (.SPX) is up 15% from its\u2026 [+3383 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Mexico's main stock index tips into bear market - Reuters",
+            "description": "Mexico's main stock index slid into a bear market Wednesday, falling to hit a 20% drop from its all-time closing high on April 1.",
+            "url": "https://www.reuters.com/markets/europe/mexicos-main-stock-index-tips-into-bear-market-2022-08-31/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+            "publishedAt": "2022-08-31T17:44:00Z",
+            "content": "MEXICO CITY, Aug 31 (Reuters) - Mexico's main stock index slid into a bear market Wednesday, falling to hit a 20% drop from its all-time closing high on April 1.\r\nThe benchmark local stock index S&am\u2026 [+384 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkey probes alleged stock market irregularities, eight held -Anadolu - Reuters",
+            "description": "Turkish prosecutors launched an investigation into alleged organised irregularities in stock market transactions and detained eight people in connection with the probe, state-owned Anadolu agency reported.",
+            "url": "https://www.reuters.com/markets/asia/turkey-probes-alleged-stock-market-irregularities-eight-held-anadolu-2022-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/mIb6wvh2_TBcbkaIxPjJVUyPJy8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/276GSTYUFNIZFG72R6FPO2IRRQ.jpg",
+            "publishedAt": "2022-10-03T10:12:00Z",
+            "content": "ISTANBUL, Oct 3 (Reuters) - Turkish prosecutors launched an investigation into alleged organised irregularities in stock market transactions and detained eight people in connection with the probe, st\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall St Week Ahead Rate-hike fears abate but Ukraine muddies stock market outlook - Reuters",
+            "description": "Geopolitical worries are clouding the outlook for U.S. stocks, even as Russia\u2019s invasion of Ukraine moderates expectations for how aggressively the Federal Reserve will tighten monetary policy in coming months.",
+            "url": "https://www.reuters.com/business/finance/wall-st-week-ahead-rate-hike-fears-abate-ukraine-muddies-stock-market-outlook-2022-03-04/",
+            "urlToImage": "https://www.reuters.com/resizer/GgnQz9PNtM3qvtdbh-RZONGqbjE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RSZ5UZYBD5JJVH4EMPXDZNGMZA.jpg",
+            "publishedAt": "2022-03-04T22:40:00Z",
+            "content": "NEW YORK, March 4 (Reuters) - Geopolitical worries are clouding the outlook for U.S. stocks, even as Russias invasion of Ukraine moderates expectations for how aggressively the Federal Reserve will t\u2026 [+3832 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lewis Krauskopf",
+            "title": "Rate-hike fears abate but Ukraine muddies stock market outlook - Reuters.com",
+            "description": "Geopolitical worries are clouding the outlook for U.S. stocks, even as Russia\u2019s invasion of Ukraine moderates expectations for how aggressively the Federal Reserve will tighten monetary policy in coming months.",
+            "url": "https://www.reuters.com/article/usa-stocks-weekahead-idUSKBN2L12GA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20220304&t=2&i=1593259058&r=LYNXMPEI2317N&w=800",
+            "publishedAt": "2022-03-04T22:42:00Z",
+            "content": "NEW YORK (Reuters) - Geopolitical worries are clouding the outlook for U.S. stocks, even as Russias invasion of Ukraine moderates expectations for how aggressively the Federal Reserve will tighten mo\u2026 [+3697 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Thai stock investor mood up on foreign inflows -market association - Reuters.com",
+            "description": "Investor confidence in Thailand's stock market <a href=\"https://www.reuters.com/quote/.SETI\" target=\"_blank\">(.SETI)</a> over the next three months has risen on expectations of further foreign fund inflows, despite concerns about the Ukraine crisis and U.S. m\u2026",
+            "url": "https://www.reuters.com/markets/stocks/thai-stock-investor-mood-up-foreign-inflows-market-association-2022-03-07/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77",
+            "publishedAt": "2022-03-07T07:35:00Z",
+            "content": "BANGKOK, March 7 (Reuters) - Investor confidence in Thailand's stock market (.SETI) over the next three months has risen on expectations of further foreign fund inflows, despite concerns about the Uk\u2026 [+1722 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia to keep stock market trading largely suspended on Wednesday - Reuters.com",
+            "description": "Russia's central bank has decided to keep stock market trading on the Moscow Exchange largely suspended again on Wednesday, keeping only a limited range of operations, it said in a statement on Tuesday.",
+            "url": "https://www.reuters.com/business/russia-keep-stock-market-trading-largely-suspended-wednesday-2022-03-08/",
+            "urlToImage": "https://www.reuters.com/resizer/EtwtGpWu6U6QVeBMsvCIsey57xk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OQ5TTD6KERKT3M2YE6WULLE6U4.jpg",
+            "publishedAt": "2022-03-08T16:56:00Z",
+            "content": "March 8 (Reuters) - Russia's central bank has decided to keep stock market trading on the Moscow Exchange largely suspended again on Wednesday, keeping only a limited range of operations, it said in \u2026 [+392 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Explainer: Why the U.S. stock market is tumbling in 2022 - Reuters.com",
+            "description": "Explainer: Why the U.S. stock market is tumbling in 2022\u00a0\u00a0Reuters.com",
+            "url": "https://www.reuters.com/business/finance/why-us-stock-market-is-tumbling-2022-2022-05-11/",
+            "urlToImage": "https://www.reuters.com/resizer/O5qTVjNJq39-gJQFyoAKkTXwcbo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JENENCSLBVOETEY362UNX67QX4.jpg",
+            "publishedAt": "2022-05-11T05:44:00Z",
+            "content": "NEW YORK, May 11 (Reuters) - The U.S. stock market is off to brutal start in 2022.\r\nThe S&amp;P 500 (.SPX), which is widely considered to be the main benchmark for U.S. stock market performance, decl\u2026 [+3987 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EV firm Atlis plans U.S. stock market listing amid IPO drought - Reuters.com",
+            "description": "Atlis Motor Vehicles has become the latest startup in the electric-vehicle space to unveil plans for an initial public offering as the global push towards electrification accelerates.",
+            "url": "https://www.reuters.com/business/autos-transportation/ev-firm-atlis-plans-us-stock-market-listing-amid-ipo-drought-2022-05-04/",
+            "urlToImage": "https://www.reuters.com/resizer/TjmZq7XmPiynWkYwdb-a89alwMY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HLN4DGKCMFORRGWMKDZNHVK3YA.jpg",
+            "publishedAt": "2022-05-04T18:44:00Z",
+            "content": "May 4 (Reuters) - Atlis Motor Vehicles has become the latest startup in the electric-vehicle space to unveil plans for an initial public offering as the global push towards electrification accelerate\u2026 [+1485 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall St Week Ahead U.S. stock market rebound faces key inflation test - Reuters",
+            "description": "A rally that lifted U.S. stocks from the brink of a bear market faces an important test next week, when consumer price data offers insight on how much more the Federal Reserve will need to do in its battle against the worst inflation in decades.",
+            "url": "https://www.reuters.com/markets/europe/wall-st-week-ahead-us-stock-market-rebound-faces-key-inflation-test-2022-06-03/",
+            "urlToImage": "https://www.reuters.com/resizer/efpdcudyZFC6NhDyn3yg5p1pGWw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EPYOWPMELJPXZI2ZECE4WVNOE4.jpg",
+            "publishedAt": "2022-06-03T19:11:00Z",
+            "content": "NEW YORK, June 3 (Reuters) - A rally that lifted U.S. stocks from the brink of a bear market faces an important test next week, when consumer price data offers insight on how much more the Federal Re\u2026 [+4315 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Brazil stock market optimism tempered as fears grow over October vote - Reuters.com",
+            "description": "Brazilian stocks will rise less than previously expected this year as fears over October's presidential vote tarnish the outlook for the second half and double-digit interest rates prompt a switch to deposit accounts, a Reuters poll showed.",
+            "url": "https://www.reuters.com/markets/europe/brazil-stock-market-optimism-tempered-fears-grow-over-october-vote-2022-05-25/",
+            "urlToImage": "https://www.reuters.com/resizer/x2eG0J3MeOvGKUQWZCgR4slbzhA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUYGZFXFURPHJMBIC7EL5A5ALE.jpg",
+            "publishedAt": "2022-05-25T04:18:00Z",
+            "content": "BUENOS AIRES/MEXICO CITY, May 25 (Reuters) - Brazilian stocks will rise less than previously expected this year as fears over October's presidential vote tarnish the outlook for the second half and d\u2026 [+2817 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Friday's Russell rebalance may stoke more volatility in nervous stock market - Reuters",
+            "description": "Investors in the volatile U.S. stock market are preparing for what may be one of the heaviest trading days of the year on Friday, as FTSE Russell completes the rebalancing of indexes that are tracked by trillions of dollars in investor funds.",
+            "url": "https://www.reuters.com/markets/europe/fridays-russell-rebalance-may-stoke-more-volatility-nervous-stock-market-2022-06-22/",
+            "urlToImage": "https://www.reuters.com/resizer/gCJfVl-87FoVZ2lK3akMfNsGfcE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K4GKMCIM5JIBDH3XF7XENWK4RI.jpg",
+            "publishedAt": "2022-06-22T05:12:00Z",
+            "content": "NEW YORK, June 22 (Reuters) - Investors in the volatile U.S. stock market are preparing for what may be one of the heaviest trading days of the year on Friday, as FTSE Russell completes the rebalanci\u2026 [+3836 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Amazon stock split may draw retail traders in tough market - Reuters.com",
+            "description": "Amazon's <a href=\"https://www.reuters.com/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> stock split may provide some solace to shareholders who have seen the e-commerce giant's shares battered this year.",
+            "url": "https://www.reuters.com/markets/europe/amazon-stock-split-may-draw-retail-traders-tough-market-2022-06-06/",
+            "urlToImage": "https://www.reuters.com/resizer/tuyRpBbSu3iEaI8EfCw_M6TNQUA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QMBDMQ4LNBNOLDWRCO45EFNTXA.jpg",
+            "publishedAt": "2022-06-06T19:10:00Z",
+            "content": "NEW YORK, June 6 (Reuters) - Amazon's (AMZN.O) stock split may provide some solace to shareholders who have seen the e-commerce giant's shares battered this year.\r\nAmazon shares were up 3.1% to $126.\u2026 [+4149 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. stock market has not priced in economic slowdown yet - Bridgewater co-CIO - Reuters",
+            "description": "Bridgewater's Karen Karniol-Tambour, co-chief investment officer for sustainability, said on Thursday that the U.S. stock market has not yet priced in an economic slowdown in the United States.",
+            "url": "https://www.reuters.com/markets/us/us-stock-market-has-not-priced-economic-slowdown-yet-bridgewater-co-cio-2022-06-09/",
+            "urlToImage": "https://www.reuters.com/resizer/PxjyGfBYXxCsWvfQ0UWLLejdUDM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/32EFEBBQEFL5TKFJVONXK4OCE4.jpg",
+            "publishedAt": "2022-06-09T21:22:00Z",
+            "content": "NEW YORK, June 9 (Reuters) - Bridgewater's Karen Karniol-Tambour, co-chief investment officer for sustainability, said on Thursday that the U.S. stock market has not yet priced in an economic slowdow\u2026 [+760 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: As Fed tightens up, U.S. stock investors play defense on options market - Reuters",
+            "description": "U.S. stock investors are increasingly turning to the options market for protection against more downside on Wall Street as they worry the Federal Reserve will be less sensitive to equity market volatility as it hikes interest rates to fight inflation.",
+            "url": "https://www.reuters.com/business/finance/fed-tightens-up-us-stock-investors-play-defense-options-market-2022-04-14/",
+            "urlToImage": "https://www.reuters.com/resizer/VtoPfvPQN6zGwpSfFwGZ5Q-RJR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BXHMFRMYHJOSXN4Z2XYCZVYMSU.jpg",
+            "publishedAt": "2022-04-14T18:44:00Z",
+            "content": "NEW YORK, April 14 (Reuters) - U.S. stock investors are increasingly turning to the options market for protection against more downside on Wall Street as they worry the Federal Reserve will be less s\u2026 [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. stock bounce likely just 'bear market rally,' says Morgan Stanley strategist - Reuters",
+            "description": "A rebound in U.S. stocks may have another 5% to go but likely remains just a \"bear market rally,\" according to Morgan Stanley's equity strategist, who sees negative trends in corporate earnings and economic indicators.",
+            "url": "https://www.reuters.com/markets/europe/us-stock-bounce-likely-just-bear-market-rally-says-morgan-stanley-strategist-2022-05-31/",
+            "urlToImage": "https://www.reuters.com/resizer/U6oAWR7ndenfxiu7_rX511hm_GU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HUW7FU3ZEBJC3IN2UQOGCV5Y2A.jpg",
+            "publishedAt": "2022-05-31T14:56:00Z",
+            "content": "NEW YORK, May 31 (Reuters) - A rebound in U.S. stocks may have another 5% to go but likely remains just a \"bear market rally,\" according to Morgan Stanley's equity strategist, who sees negative trend\u2026 [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "UAE supermarket Union Coop to list on Dubai stock market - Reuters",
+            "description": "Emirati supermarket chain Union Coop on Friday announced its intention to list shares on the Dubai stock market on July 18.",
+            "url": "https://www.reuters.com/world/middle-east/uae-supermarket-union-coop-list-dubai-stock-market-2022-07-01/",
+            "urlToImage": "https://www.reuters.com/resizer/nIsrTOZNKUFseB06cEj8FP_lNuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KHEUN6XLBNNVXF64K4HRY7DO4E.jpg",
+            "publishedAt": "2022-07-01T09:41:00Z",
+            "content": "DUBAI, July 1 (Reuters) - Emirati supermarket chain Union Coop on Friday announced its intention to list shares on the Dubai stock market on July 18.\r\nThe company said in a statement that existing sh\u2026 [+490 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "London Stock Exchange to enter market for private company financing - Reuters.com",
+            "description": "The London Stock Exchange Group (LSEG) said on Tuesday it had teamed up with digital private asset platform Floww to enter the market for unlisted companies that want to raise capital.",
+            "url": "https://www.reuters.com/business/london-stock-exchange-enter-market-private-company-financing-2022-03-15/",
+            "urlToImage": "https://www.reuters.com/resizer/EYgCWJRJe8dAQrUIm_EMjC-qEdg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K7QC4O2CSNO2NGYKMBSGLYL3KY.jpg",
+            "publishedAt": "2022-03-15T12:32:00Z",
+            "content": "LONDON, March 15 (Reuters) - The London Stock Exchange Group (LSEG) said on Tuesday it had teamed up with digital private asset platform Floww to enter the market for unlisted companies that want to \u2026 [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: Whispers of S&P 500 bear market grow louder as U.S. stock decline continues - Reuters",
+            "description": "Expectations of a hawkish Federal Reserve are dimming Wall Street\u2019s outlook for stocks, with some investors now bracing for a potential bear market in the benchmark S&P 500 index.",
+            "url": "https://www.reuters.com/business/whispers-sp-500-bear-market-grow-louder-us-stock-decline-continues-2022-05-09/",
+            "urlToImage": "https://www.reuters.com/resizer/yoZiyQTC1TRZ0KkhcLJbyV3uEsM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WCNJMJXOZ5MIJFR5CUEBXLDV7A.jpg",
+            "publishedAt": "2022-05-09T16:38:00Z",
+            "content": "NEW YORK, May 9 (Reuters) - Expectations of a hawkish Federal Reserve are dimming Wall Streets outlook for stocks, with some investors now bracing for a potential bear market in the benchmark S&amp;P\u2026 [+4427 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. retail investors bought heavily during Thursday's big stock market drop - Reuters",
+            "description": "Individual investors were major buyers on Thursday as stocks sold off over concerns that the U.S. Federal Reserve would have to increase the size of interest rate hikes to tame inflation, which is running at a four-decade high.",
+            "url": "https://www.reuters.com/business/us-retail-investors-bought-heavily-during-thursdays-big-stock-market-drop-2022-05-06/",
+            "urlToImage": "https://www.reuters.com/resizer/NvgK-U_tWlDE3HWDr1Gji4l6xAs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N6DPFCCWLRNGLH4AHHEAX3AAYY.jpg",
+            "publishedAt": "2022-05-06T13:48:00Z",
+            "content": "NEW YORK, May 6 (Reuters) - Individual investors were major buyers on Thursday as stocks sold off over concerns that the U.S. Federal Reserve would have to increase the size of interest rate hikes to\u2026 [+1323 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall St Week Ahead Rocky stock market faces Fed test with eyes on tightening plans - Reuters",
+            "description": "A volatile stock market faces a critical test next week, when the U.S. Federal Reserve is expected to raise interest rates and give more insight on its plans for tightening monetary policy to fight surging inflation.",
+            "url": "https://www.reuters.com/business/wall-st-week-ahead-rocky-stock-market-faces-fed-test-with-eyes-tightening-plans-2022-04-29/",
+            "urlToImage": "https://www.reuters.com/resizer/xgYpnV3z0eteeMPwDCvvG-nTYwQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SCJPKZMCNJA5CSTJOJGIF7WAE.jpg",
+            "publishedAt": "2022-04-29T17:29:00Z",
+            "content": "NEW YORK, April 29 (Reuters) - A volatile stock market faces a critical test next week, when the U.S. Federal Reserve is expected to raise interest rates and give more insight on its plans for tighte\u2026 [+4802 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Stock market bottom likely in Q2 or Q3 of 2022 -CIO - Reuters.com",
+            "description": "CFRA Research's chief investment strategist Sam Stovall said on Tuesday that U.S. stocks have not yet hit bottom this year, predicting the benchmark S&P 500 will fall below the 20% threshold that affirms a bear market.",
+            "url": "https://www.reuters.com/video/watch/idOV333307062022RP1",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20220607&i=OV333307062022RP1&r=OV333307062022RP1&t=2",
+            "publishedAt": "2022-06-07T20:22:54Z",
+            "content": "Posted \r\nCFRA Research's chief investment strategist Sam Stovall said on Tuesday that U.S. stocks have not yet hit bottom this year, predicting the benchmark S&amp;P 500 will fall below the 20% thres\u2026 [+31 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Citadel's flagship portfolio up 13%, far outpacing broader stock market - Reuters.com",
+            "description": "Hedge fund Citadel posted a modest rise in its flagship portfolio last month and now boasts gains of 13% for the year, far outpacing the broader stock market's double digit losses.",
+            "url": "https://www.reuters.com/markets/wealth/citadels-flagship-portfolio-up-13-far-outpacing-broader-stock-market-2022-06-06/",
+            "urlToImage": "https://www.reuters.com/resizer/W7euAFtURy8t-OC8WpXB7QjnPto=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7CKPPTHCPZNTNPAKAPB4EQSKEM.jpg",
+            "publishedAt": "2022-06-06T13:00:00Z",
+            "content": "NEW YORK, June 6 (Reuters) - Hedge fund Citadel posted a modest rise in its flagship portfolio last month and now boasts gains of 13% for the year, far outpacing the broader stock market's double dig\u2026 [+1136 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. super stock options expiry may bring short market respite - Reuters",
+            "description": "An unusually large quarterly expiration of U.S. stock futures and options on Friday is likely to boost trading volumes and add to volatility, market strategists said, with some even expecting it to trigger a relief rally at the end of a turbulent week.",
+            "url": "https://www.reuters.com/markets/europe/us-super-stock-options-expiry-may-bring-short-market-respite-2022-06-17/",
+            "urlToImage": "https://www.reuters.com/resizer/FWIrBVaG0rZIq4ql_q9PjoPL-LE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LO7J7EHA4RJFNFILZIX2XLH6YU.jpg",
+            "publishedAt": "2022-06-17T14:20:00Z",
+            "content": "June 17 (Reuters) - An unusually large quarterly expiration of U.S. stock futures and options on Friday is likely to boost trading volumes and add to volatility, market strategists said, with some ev\u2026 [+2532 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "France's Spotify rival Deezer loses ground on its stock market debut - Reuters.com",
+            "description": "Shares in French music streaming platform Deezer fell 6% on their Paris market debut on Tuesday.",
+            "url": "https://www.reuters.com/markets/europe/frances-spotify-rival-deezer-loses-ground-its-stock-market-debut-2022-07-05/",
+            "urlToImage": "https://www.reuters.com/resizer/u2NHhDu_NEDx434G9xj9XdfF3sU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4QABQWXPMBJD3CRS443QWUKETY.jpg",
+            "publishedAt": "2022-07-05T07:14:00Z",
+            "content": "PARIS, July 5 (Reuters) - Shares in French music streaming platform Deezer fell 6% on their Paris market debut on Tuesday.\r\nDeezer opened at 8.50 euros, before heading down, trading at 7.99 euros per\u2026 [+666 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian rouble edges lower vs dollar as market takes stock of rate cut - Reuters.com",
+            "description": "The Russian rouble edged lower against the dollar in a jittery start to Moscow trade on Monday, adjusting to the central bank's decision to slash interest rates on Friday, and as a rouble-supportive tax-payment period reaches its peak.",
+            "url": "https://www.reuters.com/markets/europe/russian-rouble-edges-lower-vs-dollar-market-takes-stock-rate-cut-2022-07-25/",
+            "urlToImage": "https://www.reuters.com/resizer/auJp0kwrHYZobLApN6wIWDo1Wjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A6C4H37JVJOBPMMLYDMCZF7D2Y.jpg",
+            "publishedAt": "2022-07-25T07:50:00Z",
+            "content": "MOSCOW, July 25 (Reuters) - The Russian rouble edged lower against the dollar in a jittery start to Moscow trade on Monday, adjusting to the central bank's decision to slash interest rates on Friday,\u2026 [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. stock market: Is it a bull, a bear, or a bull in a bear? - Reuters",
+            "description": "The U.S. stock market's rebound in recent weeks has analysts and investors questioning whether 2022's deep downturn has ended, but how to spot an expiring bear market or a new bull market is not something everyone on Wall Street agrees on.",
+            "url": "https://www.reuters.com/markets/europe/us-stock-market-is-it-bull-bear-or-bull-bear-2022-08-11/",
+            "urlToImage": "https://www.reuters.com/resizer/8lxsM-sCtcxrdTmxwetIZ-9othQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7I6PTB44ZRKFFIQFYODRORNWJM.jpg",
+            "publishedAt": "2022-08-11T21:01:00Z",
+            "content": "Aug 11 (Reuters) - The U.S. stock market's rebound in recent weeks has analysts and investors questioning whether 2022's deep downturn has ended, but how to spot an expiring bear market or a new bull\u2026 [+3906 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: U.S. midterm elections may add more risk to shaky stock market - Reuters.com",
+            "description": "Another source of potential stock market volatility looms in an already tough year for Wall Street: an approaching midterm U.S. elections that will determine which political party controls Congress.",
+            "url": "https://www.reuters.com/markets/europe/us-midterm-elections-may-add-more-risk-shaky-stock-market-2022-09-13/",
+            "urlToImage": "https://www.reuters.com/resizer/KPhetypOF849huHTG7nkqrNyCtc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CCWEXS3OFJL5EW2MJQLJZRMQY.jpg",
+            "publishedAt": "2022-09-13T16:55:00Z",
+            "content": "NEW YORK, Sept 13 (Reuters) - Another source of potential stock market volatility looms in an already tough year for Wall Street: an approaching midterm U.S. elections that will determine which polit\u2026 [+4438 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Hedge funds post July gain on stock market rally, still down for year - Reuters",
+            "description": "Hedge funds posted a 1.65% gain in July, driven by a stock market rally which helped reduce their losses for the year to date, data provider HFR said on Friday.",
+            "url": "https://www.reuters.com/markets/us/hedge-funds-post-july-gain-stock-market-rally-still-down-year-2022-08-05/",
+            "urlToImage": "https://www.reuters.com/resizer/hnYRvUe1An9pkdK3y-_GIMFw5NM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CBUTYFM7CBL6XJQI6TGDUXNLPE.jpg",
+            "publishedAt": "2022-08-05T22:07:00Z",
+            "content": "Hedge Fund Research (HFR) President Kenneth J. Heinz participates in a panel discussion during the Skybridge Alternatives (SALT) Conference in Las Vegas, Nevada May, 9, 2012. SALT brings together pub\u2026 [+1636 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Indian yoga guru eyes stock market debut of 4 group firms - Reuters.com",
+            "description": "Indian consumer group Patanjali, co-founded by a well-known yoga guru, said on Friday it plans to list four group companies as part of its vision for 2027, as the producer of affordable, local-made goods takes on bigger rivals like Unilever and P&G.",
+            "url": "https://www.reuters.com/business/retail-consumer/indian-yoga-guru-eyes-stock-market-debut-4-group-firms-2022-09-16/",
+            "urlToImage": "https://www.reuters.com/resizer/2k9RCcguD1uuU2HFAP-PF6Su4T4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NIWHIO2EY5O5TOU2BRDQZMSKCM.jpg",
+            "publishedAt": "2022-09-16T07:10:00Z",
+            "content": "NEW DELHI, Sept 16 (Reuters) - Indian consumer group Patanjali, co-founded by a well-known yoga guru, said on Friday it plans to list four group companies as part of its vision for 2027, as the produ\u2026 [+1522 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkey arrests five people over alleged stock market fraud -Anadolu - Reuters.com",
+            "description": "A Turkish court ruled to formally arrest five of eight people detained at the weekend for alleged fraud in transactions of banking shares on the Istanbul stock market, state-owned Anadolu news agency reported late on Tuesday.",
+            "url": "https://www.reuters.com/world/middle-east/turkey-arrests-five-people-over-alleged-stock-market-fraud-anadolu-2022-10-05/",
+            "urlToImage": "https://www.reuters.com/resizer/mIb6wvh2_TBcbkaIxPjJVUyPJy8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/276GSTYUFNIZFG72R6FPO2IRRQ.jpg",
+            "publishedAt": "2022-10-05T05:44:00Z",
+            "content": "ISTANBUL, Oct 5 (Reuters) - A Turkish court ruled to formally arrest five of eight people detained at the weekend for alleged fraud in transactions of banking shares on the Istanbul stock market, sta\u2026 [+1848 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Get out the Red Bull, 24/7 stock trading is coming, market execs say - Reuters.com",
+            "description": "Around-the-clock trading, a feature of cryptocurrency markets, is likely coming to U.S. equities within five years, some retail brokerages and exchange operators, including Robinhood Markets <a href=\"https://www.reuters.com/companies/HOOD.O\" target=\"_blank\">(\u2026",
+            "url": "https://www.reuters.com/markets/us/get-out-red-bull-247-stock-trading-is-coming-market-execs-say-2022-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/1Co1teZQ-Qp7j2WeZAa470vWrCg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4CYU6TYRO5N7PCBC5K4DOANY6E.jpg",
+            "publishedAt": "2022-10-13T19:26:00Z",
+            "content": "Oct 13 (Reuters) - Around-the-clock trading, a feature of cryptocurrency markets, is likely coming to U.S. equities within five years, some retail brokerages and exchange operators, including Robinho\u2026 [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Options activity hints U.S. stock market has not reached bottom- Barclays - Reuters",
+            "description": "Options trading activity does not yet hint at a bottom in U.S. stocks, Barclays derivatives strategists said on Tuesday, rebutting speculation among some investors that a record surge in put option trading volumes suggested the market may be nearing a reversa\u2026",
+            "url": "https://www.reuters.com/markets/europe/options-activity-hints-us-stock-market-has-not-reached-bottom-barclays-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/Xr61g6EEk4nEn23kcTvj6td3HMw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ESOICURMNNKM5OZULZFCYXMZ6U.jpg",
+            "publishedAt": "2022-09-27T17:57:00Z",
+            "content": "NEW YORK, Sept 27 (Reuters) - Options trading activity does not yet hint at a bottom in U.S. stocks, Barclays derivatives strategists said on Tuesday, rebutting speculation among some investors that \u2026 [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Coco Khan",
+            "title": "Can I make an ethical killing on the stock market? We ask an expert",
+            "description": "Tariq Fancy, former global head of sustainable investing at BlackRock, on whether it\u2019s too good to be trueThe notion of \u201csustainable investing\u201d had a bumper year in 2021. Aligning investments with climate goals \u2013 no fossil fuel companies, for example \u2013 promis\u2026",
+            "url": "https://amp.theguardian.com/lifeandstyle/2022/apr/22/ethical-killing-on-stock-market-we-ask-an-expert",
+            "urlToImage": "https://i.guim.co.uk/img/media/0358b522a2ab8b3bba112bfdd184c99d07710cd1/33_33_2499_1499/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12eb837dd64c244f91ad3956e653b3ea",
+            "publishedAt": "2022-04-22T14:00:26Z",
+            "content": "The notion of sustainable investing had a bumper year in 2021. Aligning investments with climate goals no fossil fuel companies, for example promises a good financial return, while benefiting the pla\u2026 [+3392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jasper Jolly",
+            "title": "Stock market rally muted after Fed official says \u2018far away from inflation victory\u2019 \u2013 business live",
+            "description": "Live, rolling coverage of business, economics and financial markets as investors welcome surprise fall in US inflation but officials warn of further rate hikesGood morning, and welcome to our live coverage of business, economics and financial markets.Stock ma\u2026",
+            "url": "https://www.theguardian.com/business/live/2022/aug/11/us-federal-reserve-inflation-interest-rates-ftse-100-gdp-house-prices-business-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/e84517b024a5aa5de972a2a724238b618ae54c8f/0_0_4689_2813/master/4689.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e87e6294e32bb6f6a2d1151ed29217f5",
+            "publishedAt": "2022-08-11T07:18:54Z",
+            "content": "The FTSE 100 leaders this morning are Ladbrokes owner Entain and Coca-Cola Hellenic Bottling Company, both of which have given their shareholders positives amid a tricky macro environment.\r\nCoca-Cola\u2026 [+3056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jasper Jolly",
+            "title": "London stock market listing of up to \u00a345bn looms as GSK investors vote for demerger",
+            "description": "UK pharmaceutical to spin off brands such as Sensodyne, Voltaren and Panadol into Haleon in largest listing since 2011Investors in the British pharmaceuticals giant GSK have voted to approve a demerger of its consumer brands into a new company, Haleon, firing\u2026",
+            "url": "https://amp.theguardian.com/business/2022/jul/06/largest-lse-listing-45bn-looms-gsk-investors-demerger-vote-sensodyne-panadol-haleon-voltaren",
+            "urlToImage": "https://i.guim.co.uk/img/media/dcd22bd49ca099a6a05870e976b337e751df6b94/0_27_3500_2102/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b1ba408be79b4b1a73ca8dc08d6765b",
+            "publishedAt": "2022-07-06T17:16:44Z",
+            "content": "Investors in the British pharmaceuticals giant GSK have voted to approve a demerger of its consumer brands into a new company, Haleon, firing the starting gun on the largest London stock market listi\u2026 [+4197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Farnoosh Torabi",
+            "title": "Stock Market Secrets: My Smartest Investment Tips After 16 Years of Reporting - CNET",
+            "description": "The market feels scary right now, but waiting to invest can be even riskier.",
+            "url": "https://www.cnet.com/personal-finance/stock-market-secrets-my-smartest-investment-tips-after-16-years-of-reporting/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a511236bd7c0a3e350fcdb970759101775d21cf2/2022/08/26/64f3186b-8c46-49a2-ba08-a4183092e173/cnet-money-investing-tips-in-a-moody-market-farnoosh-3.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-08-30T15:15:45Z",
+            "content": "This story is part of Recession Help Desk, CNET's coverage of how to make smart money moves in an uncertain economy. \r\nIf there's one thing I've learned in all my years of reporting, it's this: The s\u2026 [+8669 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Stock market investors should prepare for more misery ahead as the S&P 500 officially enters a bear market, Bank of America says",
+            "description": "BofA's call for more misery could be correct, as a V-shaped recovery similar to the one seen in March 2020 is more of an exception than the rule.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-more-investor-misery-ahead-sp500-bear-market-2022-6",
+            "urlToImage": "https://i.insider.com/62a8adc06053710019ea2bb3?width=1200&format=jpeg",
+            "publishedAt": "2022-06-14T16:37:58Z",
+            "content": "Investors should prepare themselves for more \"misery\" ahead after the S&amp;P 500 officially entered \r\nbear market territory on Monday, according to Bank of America.\r\nThe bank said in a Tuesday note \u2026 [+2382 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Moz\u00e9e)",
+            "title": "The stock market sell-off will end when the Fed signals it's done tightening monetary policy, Goldman Sachs says",
+            "description": "The Fed needs to see definitive signs of easing inflationary pressures and moderating economic growth to shift from its hawkish stance, says Goldman.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-selloff-fed-tightening-shift-recession-economy-goldman-2022-5",
+            "urlToImage": "https://i.insider.com/6205218ae2fe3c0019e9f2f1?width=1200&format=jpeg",
+            "publishedAt": "2022-05-24T16:55:47Z",
+            "content": "A sign from the \r\nFederal Reserve that it's wrapping up work on tightening monetary policy will be what's needed to stop the sell-off in US stocks, Goldman Sachs said Tuesday.\u00a0\r\nStocks have been blee\u2026 [+1923 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "A rally in the stock market is imminent after investors got too bearish and as inflation starts to moderate, according to JPMorgan",
+            "description": "Investors can position their portfolio for upside by buying both growth and value stocks, according to JPMorgan's Marko Kolanovic.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-rally-upside-imminent-inflation-interest-rates-economy-2022-4",
+            "urlToImage": "https://i.insider.com/625edef7d2039d0019ba5bc7?width=1200&format=jpeg",
+            "publishedAt": "2022-04-19T17:07:28Z",
+            "content": "The stock market is poised for a near-term rally after investors turned too bearish on stocks, JPMorgan's Marko Kolanovic said in a note on Tuesday.\r\nKolanovic pointed to the latest results of the we\u2026 [+2382 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The stock market may be entering a period of 'lost years' after a decade-long bull run, Wall Street quant firm says",
+            "description": "The S&P 500 would be currently trading at 2,027 if it saw annualized gains of just 7% from 2012 through today, SIG's Chris Murphy observed.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-lost-years-ahead-after-decade-bull-run-2022-6",
+            "urlToImage": "https://i.insider.com/627a64e094a2c10018eebcfd?width=1200&format=jpeg",
+            "publishedAt": "2022-06-23T19:54:10Z",
+            "content": "Stock market investors have been conditioned for strong returns over the past decade as a prolonged period of historically low interest rates helped fuel asset prices.\r\nBut after a record rise in inf\u2026 [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Investors will have 3 ideal entry points into the stock market over the next few months as bear attack lingers, according to BofA",
+            "description": "\"Stand your ground means sticking to your underlying investment philosophy, being opportunistic, and taking the long view,\" Bank of America said.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-bear-attack-investors-3-ideal-entry-points-2022-6",
+            "urlToImage": "https://i.insider.com/62bdd73fada84d0019b79329?width=1200&format=jpeg",
+            "publishedAt": "2022-07-03T12:15:00Z",
+            "content": "Investors will have three ideal moments to buy stocks between now and early 2023 as the \r\nbear market decline continues, according to Bank of America.\r\nIn a Wednesday note, Head of CIO Market Strateg\u2026 [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Jeremy Grantham says the S&P 500 will fall at least 40% from its peak as the stock market bubble looks a lot like 2000 all over again",
+            "description": "\"So we are really messing with all of the assets so this has turned out historically to be very dangerous,\" Grantham said.",
+            "url": "https://markets.businessinsider.com/news/stocks/jeremy-grantham-stock-market-bubble-outlook-dot-com-bubble-again-2022-5",
+            "urlToImage": "https://i.insider.com/6285394fe19cda001886785a?width=1200&format=jpeg",
+            "publishedAt": "2022-05-18T19:32:06Z",
+            "content": "Jeremy Grantham of GMO believes the stock market is in a bubble akin to 2000 that is in the process of deflating, according to a Wednesday interview with CNBC.\u00a0\r\nGrantham said he expects the S&amp;P \u2026 [+2948 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+            "title": "Investors have weathered a big chunk of the bear market already, but stocks could still fall further, Goldman Sachs global stock chief says",
+            "description": "\"Typically, in these kinds of bear markets, most equities fall for about 30%. We are not at that level yet, but we are getting towards it,\" he said.",
+            "url": "https://markets.businessinsider.com/news/stocks/bear-market-stocks-could-fall-peter-oppenheimer-goldman-sachs-2022-7",
+            "urlToImage": "https://i.insider.com/6141f8102db0850019a98791?width=1200&format=jpeg",
+            "publishedAt": "2022-07-11T14:27:06Z",
+            "content": "US stocks could drop further in a sign that the \r\nbear market hasn't reached a bottom yet, according to Peter Oppenheimer, Goldman Sachs' chief global equity strategist.\u00a0\r\nSpeaking to CNBC late last \u2026 [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Wall Street strategists are throwing in the towel and cutting their S&P 500 price targets. That's often a good sign for the stock market.",
+            "description": "Fundstrat has remained resistant to cutting its year-end price target of 5,100, which represents potential upside of 39% from current levels.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-review-wall-street-strategists-cut-sp500-targets-capitulation-2022-10",
+            "urlToImage": "https://i.insider.com/634d9edb6bd527001914fb0a?width=1200&format=jpeg",
+            "publishedAt": "2022-10-17T19:35:12Z",
+            "content": "It's been a tough year for Wall Street forecasters, as a sharp sell-off amid aggressive rate hikes by the Federal Reserve de-railed most predictions for where the S&amp;P 500 would end the year.\r\nAt \u2026 [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Jeremy Grantham predicts stubborn inflation, champions green investing, and warns the stock market reminds him of the dot-com bubble. Here are his 8 best quotes from a new interview.",
+            "description": "The veteran investor and market historian bemoaned speculation on meme stocks and crypto, and forecasted lingering inflation and a commodity shortage.",
+            "url": "https://markets.businessinsider.com/news/stocks/jeremy-grantham-gmo-inflation-climate-change-stock-market-bubble-crash-2022-6",
+            "urlToImage": "https://i.insider.com/6290d7a9f099c40019569bb7?width=1200&format=jpeg",
+            "publishedAt": "2022-06-06T15:36:59Z",
+            "content": "Jeremy Grantham compared the current stock market to the dot-com bubble, predicted stubborn inflation and a commodity shortage, and recommended investing in clean-energy startups during a recent epis\u2026 [+2867 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "The stock market is in for another bottom by year-end as investors are too focused on the Fed and too optimistic about earnings, Morgan Stanley's investment chief says",
+            "description": "The market will reach a new bottom before the end of the year, Mike Wilson said, seeing a drop as steep as 25% if the US spirals into a recession.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fall-bottom-earnings-growth-risk-premium-recession-2022-8",
+            "urlToImage": "https://i.insider.com/630f92d63fe7c40019e4b4bb?width=1200&format=jpeg",
+            "publishedAt": "2022-08-31T17:28:12Z",
+            "content": "The market is in for another bottom before the end of the year, Morgan Stanley's chief investment officer Mike Wilson said, warning that investors were still too focused on the Federal Reserve and to\u2026 [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Steve Reitmeister",
+            "title": "Stock Market Bottom? Think Again\u2026",
+            "description": "Determining bear market bottom is much easier in hindsight than doing it in real time. That's because the stock market (SPY) offers up many impressive bounces that give the illusion...",
+            "url": "https://www.entrepreneur.com/article/431124",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-431124.jpeg",
+            "publishedAt": "2022-07-09T13:51:01Z",
+            "content": "Determining bear market bottom is much easier in hindsight than doing it in real time. That's because the stock market (SPY) offers up many impressive bounces that give the illusion of the worst bein\u2026 [+7562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "StockNews.com"
+            },
+            "author": "Steve Reitmeister",
+            "title": "Riding the Stock Market See-Saw",
+            "description": "If you enjoy the volatile nature of the current stock market (SPY), then I recommend you get your head examined. For the other 99.9% of you, these are unsettling times...",
+            "url": "https://stocknews.com/news/spy-inx-dia-iwm-qqq-riding-the-stock-market-see-saw/",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-422395.jpeg",
+            "publishedAt": "2022-03-16T14:15:08Z",
+            "content": "If you enjoy the volatile nature of the current stock market (SPY), then I recommend you get your head examined. For the other 99.9% of you, these are unsettling times and it requires a clear outlook\u2026 [+6118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Entrepreneur Store",
+            "title": "How To Make Smarter Safer Investments in the Stock Market",
+            "description": "This intuitive stock screener will help you beat the market.",
+            "url": "https://www.entrepreneur.com/article/429287",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1654877938-Ent-TykrStock.jpeg",
+            "publishedAt": "2022-06-12T15:30:00Z",
+            "content": "One of the most important aspects of entrepreneurship is finding ways to create wealth for yourself outside of your business. You don't want all of your personal capital tied up in your business that\u2026 [+1724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "StockNews.com"
+            },
+            "author": "Steve Reitmeister",
+            "title": "Why the Stock Market Is Finally Rewarding Value Stocks",
+            "description": "The S&P 500 (SPY) has actually fallen -2.13% over the past week. That's not so good. But oddly the POWR Value portfolio actually rallied the exact opposite; +2.13%. How is...",
+            "url": "https://stocknews.com/news/spy-inx-dia-iwm-qqq-why-the-stock-market-is-finally-rewarding-value-stocks/",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-424966.jpeg",
+            "publishedAt": "2022-04-16T18:41:55Z",
+            "content": "The S&amp;P 500 (SPY) has actually fallen -2.13% over the past week. That's not so good. But oddly the POWR Value portfolio actually rallied the exact opposite; +2.13%. How is that possible? Because \u2026 [+4748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Matthew North",
+            "title": "A10 Networks: Key 5G Infrastructure Stock that's Beating the Market",
+            "description": "A10 Networks (NYSE: ATEN) is an important 5G infrastructure company that helps to optimize 5G traffic flow whilst also securing this traffic against bottlenecks and cyber attacks.",
+            "url": "https://www.entrepreneur.com/article/429655",
+            "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-429655.jpeg",
+            "publishedAt": "2022-06-16T12:45:00Z",
+            "content": "A10 Networks (NYSE: ATEN) is an important 5G infrastructure company that helps to optimize 5G traffic flow whilst also securing this traffic against bottlenecks and cyber attacks. The company's bread\u2026 [+3671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "StockNews.com"
+            },
+            "author": "Dipanjan Banchur",
+            "title": "Stock Market Sell-Off: 4 Bargain Stocks Begging to Be Bought",
+            "description": "The stock market has experienced a sell-off of late due to investor concerns about the Fed\u2019s aggressive interest rate increases to tame inflation and a prospective economic contraction. Nevertheless, the...",
+            "url": "https://stocknews.com/news/hznp-ttdky-aciw-mxl-stock-market-sell-off-4-bargain-stocks-begging-to-be-bought/",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-427979.jpeg",
+            "publishedAt": "2022-05-20T12:44:20Z",
+            "content": "The stock market has experienced a sell-off of late due to investor concerns about the Feds aggressive interest rate increases to tame inflation and a prospective economic contraction. Nevertheless, \u2026 [+10364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Due.com"
+            },
+            "author": "John Rampton",
+            "title": "8 Tips for Playing the Stock Market With Your Annuity (Music Edition)",
+            "description": "Let\u2019s be honest. The future is looking more and more uncertain. And, that can definitely impact your finances &#8212; especially if you have money tied up in the stock market....",
+            "url": "https://due.com/blog/8-tips-for-playing-the-stock-market-with-your-annuity-music-edition/",
+            "urlToImage": "https://assets.entrepreneur.com/providers/due/hero-image-due-424583.jpeg",
+            "publishedAt": "2022-04-12T14:00:58Z",
+            "content": "Lets be honest. The future is looking more and more uncertain. And, that can definitely impact your finances especially if you have money tied up in the stock market.\r\nDue - Due\r\nIf there is a silver\u2026 [+12570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Entrepreneur Staff",
+            "title": "Flink Mexico: the platform that allows you to invest from $30 pesos in the stock market",
+            "description": "Flink is a proposal within the financial market that offers you a debit account, like any bank with the difference that you can save and invest in shares of the financial market.",
+            "url": "https://www.entrepreneur.com/article/424742",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1649856365-shutterstock-2125283795.jpg",
+            "publishedAt": "2022-04-13T21:28:00Z",
+            "content": "Flink M\u00e9xico is a fintech founded by two young entrepreneurs: Sergio Jim\u00e9nez and Ricardo Bueno . It came to the country with the intention of changing the current financial ecosystem, since its purpo\u2026 [+1807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketBeat"
+            },
+            "author": "Chris Markoch",
+            "title": "Novavax Remains a Risk-On Stock in a Risk-Off Market",
+            "description": "NVAX is a risk-on stock at a time investors are turning to risk-off assets. This article looks to see if Novavax still presents an opportunity for investors",
+            "url": "https://www.marketbeat.com/originals/novavax-remains-a-risk-on-stock-in-a-risk-off-market/",
+            "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-435801.jpeg",
+            "publishedAt": "2022-09-22T05:00:00Z",
+            "content": "<ul><li>NVAX stock is down 16% this week bringing its 12-month loss to over 88%.\u00a0</li><li>The company is struggling to meet revenue expectations from its Covid-19 vaccine candidate.\u00a0</li><li>Demand f\u2026 [+4427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Anushka Dutta",
+            "title": "1 Stock That Could Crush the Market for the Long Term",
+            "description": "Semiconductor producer Broadcom (AVGO) has experienced a sell-off amid the broader market volatility this year. However, given its solid fundamentals, this stock looks poised to crush the market in the...",
+            "url": "https://www.entrepreneur.com/article/434466",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-434466.jpeg",
+            "publishedAt": "2022-08-31T14:44:14Z",
+            "content": "Semiconductor producer Broadcom (AVGO) has experienced a sell-off amid the broader market volatility this year. However, given its solid fundamentals, this stock looks poised to crush the market in t\u2026 [+4289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Parth Pala",
+            "title": "Apple\u2019s Global Smartphone Market Share Increases by 20%, Should You Consider The Stock?",
+            "description": "Apple gains market share in smartphones.",
+            "url": "https://www.entrepreneur.com/article/431356",
+            "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-431356.jpeg",
+            "publishedAt": "2022-07-13T13:00:00Z",
+            "content": "Apple (NASDAQ: AAPL) is a technology company based out of Cupertino, California. It produces a range of hardware and software products, including the iPhone, etc. Apple's stock has corrected over 20%\u2026 [+3955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple's Stock Down 20% Since Early April Amid Broader Market Losses",
+            "description": "Apple's stock opened at $146.85 today and continues to trend downwards, with shares currently trading below the $143 mark in today's session. Apple's stock price has declined approximately 20% since closing at $178.44 on April 4.\n\n\n\n\n\nThe stock market has exp\u2026",
+            "url": "https://www.macrumors.com/2022/05/18/aapl-down-20-percent-since-early-april/",
+            "urlToImage": "https://images.macrumors.com/t/EUB4U9IA54nor9e6KKtdb7gamGI=/2000x/article-new/2021/04/Apple-Logo-Cash-Orange.jpg",
+            "publishedAt": "2022-05-18T16:41:10Z",
+            "content": "Apple's stock opened at $146.85 today and continues to trend downwards, with shares currently trading below the $143 mark in today's session. Apple's stock price has declined approximately 20% since \u2026 [+773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "David Gura",
+            "title": "Trump's social media company dealt another setback in road to stock market listing",
+            "description": "The Trump social media company, of which Truth Social is a part of, is hoping to raise more money by merging with a blank check company, but it's faced delays, and legal and regulatory scrutiny.",
+            "url": "https://www.npr.org/2022/09/08/1121749404/trump-truth-social-media-spac-stock-listing",
+            "urlToImage": "https://media.npr.org/assets/img/2022/09/08/gettyimages-1238669768_wide-969cf0d34998e051067e17ebe0c65a2bde11e90b.jpg?s=1400",
+            "publishedAt": "2022-09-08T21:23:32Z",
+            "content": "Former President Trump created the Trump Media &amp; Technology Group, which includes Truth Social, after he was banned from Twitter.\r\nStefani Reynolds/AFP via Getty Images\r\nFormer President Trump's \u2026 [+5425 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kevin L. Matthews II)",
+            "title": "Understanding how interest rates affect the stock market",
+            "description": "When interest rates rise, the stock market typically falls due to higher costs and lower profits. When they're cut, it's a catalyst for growth.",
+            "url": "https://www.businessinsider.com/personal-finance/how-do-interest-rates-affect-the-stock-market",
+            "urlToImage": "https://i.insider.com/622a15bb6ec7c20019cd78f2?width=1200&format=jpeg",
+            "publishedAt": "2022-03-10T20:26:08Z",
+            "content": "Interest rates can influence nearly every part of your financial life. They also help determine the behavior of investors as well as consumers, and companies. Of these groups, investors tend to be th\u2026 [+8594 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Elizabeth Aldrich)",
+            "title": "What is a stock market correction? How to make sense of sudden drops in the market",
+            "description": "A stock market correction is a brief dip of 10% to 20% that occurs to correct artificially inflated stock prices and unsustainable growth.",
+            "url": "https://www.businessinsider.com/personal-finance/stock-market-correction",
+            "urlToImage": "https://i.insider.com/605ba1f5106eb50019d0574c?width=1200&format=jpeg",
+            "publishedAt": "2022-08-09T17:41:59Z",
+            "content": "There's nothing quite like the rush of watching your investments gain value. The same could be said about the moment of panic when you see them start to take a tumble.\r\nHowever, it's common to see pl\u2026 [+5430 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Mariel Loveland)",
+            "title": "Stock market indexes measure performance in different parts of the market and play a key role in investing",
+            "description": "A stock market index is a group of commonly themed individual stocks that represents an industry or market segment, acting as a performance benchmark.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-a-stock-market-index",
+            "urlToImage": "https://i.insider.com/5fe3837aa6448800181932cc?width=1200&format=jpeg",
+            "publishedAt": "2022-07-28T17:34:42Z",
+            "content": "In pop culture, the idea of a stock market index typically conjures images of the stock ticker in Times Square New York or traders screaming like they were extras in The Wolf of Wall Street.\u00a0\r\nIn rea\u2026 [+6621 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "A Russian stock ETF plunges 23% as the country's market remains closed amid deep losses",
+            "description": "The fund has lost about 46% since Russia's attack on Ukraine began as sanctions threaten economic collapse.",
+            "url": "https://markets.businessinsider.com/news/etf/vaneck-russia-etf-rsx-ukraine-war-us-sanctions-market-closed-2022-2",
+            "urlToImage": "https://i.insider.com/621cd9f8bea1240018a8e89d?width=1200&format=jpeg",
+            "publishedAt": "2022-02-28T14:58:22Z",
+            "content": "The VanEck Russia ETF plummeted 23% Monday as more sanctions against Moscow pile up while Russian troops ramp up their assault on Ukraine.\u00a0\r\nThe Russian central bank closed the country's stock market\u2026 [+1236 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Nancy Pelosi's looming visit to Taiwan is dragging the island's stock market down",
+            "description": "Nancy Pelosi is set to visit Taiwan this week. News of the trip has weighed on both the island's stock market and local currency.",
+            "url": "https://markets.businessinsider.com/news/stocks/nancy-pelosis-taiwan-trip-is-dragging-the-islands-stock-market-down-2022-8",
+            "urlToImage": "https://i.insider.com/62e9154b57dd3c0018dbfd29?width=1200&format=jpeg",
+            "publishedAt": "2022-08-02T12:43:12Z",
+            "content": "Nancy Pelosi is expected to arrive in Taiwan Tuesday evening on the island's local time, and local stocks dropped ahead of her visit.\u00a0\u00a0\r\nThe Taiwan Stock Exchange Weighted Index slipped as much as 2.\u2026 [+1226 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kevin L. Matthews II)",
+            "title": "The Great Crash: What to know about the stock market crash of 1929",
+            "description": "The stock market crash of 1929 started because of investors but was amplified by the actions of Congress. Black Tuesday sparked the Great Depression.",
+            "url": "https://www.businessinsider.com/personal-finance/stock-market-crash-1929",
+            "urlToImage": "https://i.insider.com/6181b2b1326b26001834896b?width=1200&format=jpeg",
+            "publishedAt": "2022-07-11T17:34:56Z",
+            "content": "The stock market crash of 1929 is known as the most catastrophic event in the history of the US stock market. On Thursday, October 24, 1929, the stock market fell 11%. The losses continued on Monday,\u2026 [+5631 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "hrobertson@businessinsider.com (Harry Robertson)",
+            "title": "Goldman Sachs says investors are being complacent about recession risks as the stock market rallies",
+            "description": "Stocks have rallied as investors have bet the Fed will pause its rate hikes as growth slows. But Goldman thinks that's a risky wager.",
+            "url": "https://markets.businessinsider.com/news/stocks/us-stock-market-outlook-rally-recession-risks-rates-goldman-sachs-2022-8",
+            "urlToImage": "https://i.insider.com/62e9097457dd3c0018dbfc85?width=1200&format=jpeg",
+            "publishedAt": "2022-08-02T11:32:17Z",
+            "content": "Investors are being complacent about the risks of a recession and markets remain vulnerable to inflation and weak growth, according to analysts at Goldman Sachs.\r\nStocks have rallied sharply in recen\u2026 [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Rebecca Reisner)",
+            "title": "8 of the biggest stock market crashes in history \u2014 and how they changed our financial lives",
+            "description": "From Black Tuesday in 1929 to the 2020 COVID crash, here's a summary of 8 of the biggest US stock market wipeouts in history.",
+            "url": "https://www.businessinsider.com/personal-finance/biggest-stock-market-crashes-in-history",
+            "urlToImage": "https://i.insider.com/5fd3ffc7e00bce00188bb021?width=1200&format=jpeg",
+            "publishedAt": "2022-07-20T13:45:34Z",
+            "content": "Three little words strike more fear into investors' hearts than anything else: stock market crash.\r\nIt's not just that they mean losses (another word that scares investors). It's also that no one kno\u2026 [+12635 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+            "title": "Anthony Scaramucci's SkyBridge has halted withdrawals from one of its funds as the stock market deteriorates",
+            "description": "SkyBridge Capital froze withdrawals from its Legion Strategy fund, which has 20% of its assets in private companies, which are harder to sell.",
+            "url": "https://markets.businessinsider.com/news/currencies/anthony-scaramucci-skybridge-capital-suspends-withdrawals-fund-2022-7",
+            "urlToImage": "https://i.insider.com/62d6837fbc4c770018b759e1?width=1200&format=jpeg",
+            "publishedAt": "2022-07-19T10:40:45Z",
+            "content": "Anthony Scaramucci's SkyBridge Capital has suspended client withdrawals from one of its funds against a backdrop of a depreciating stock market, according to Bloomberg.\r\nThe Legion Strategies fund st\u2026 [+2214 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Bearish investor sentiment is the key to sustaining a stock market rally into 2023",
+            "description": "The difference of a bear-market bounce vs. a sustained rally is that \"the latter has a wall of worry that gradually pulls investors into the market.\"",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-bearish-investor-sentiment-to-sustain-2023-rally-2022-10",
+            "urlToImage": "https://i.insider.com/60994ddbbf0f5b001940ef4f?width=1200&format=jpeg",
+            "publishedAt": "2022-10-20T17:06:15Z",
+            "content": "A rally in the stock market heading into 2023 won't be sustainable unless investor sentiment remains in bearish territory, according to a Thursday note from Ned Davis Research.\r\nAnd so far, so good. \u2026 [+2542 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Robin Kavanagh)",
+            "title": "What is a stock market crash? Understanding the causes and consequences can help investors prepare",
+            "description": "A stock market crash is a sudden or severe drop in overall share prices, usually within a day. They can be due to economic crises or investor panic.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-a-stock-market-crash",
+            "urlToImage": "https://i.insider.com/600b731a195820001155498f?width=1200&format=jpeg",
+            "publishedAt": "2022-07-26T18:08:30Z",
+            "content": "The stock market is constantly moving, with prices of individual equities rising and falling throughout the trading day. Whenever the majority of them or a representative group of them, called a stoc\u2026 [+9491 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Here's what's in store for the stock market for the rest of this summer and beyond",
+            "description": "The biggest story in markets today is how stocks will navigate the bear market this summer. Two experts from top firms break down opposite forecasts.",
+            "url": "https://www.businessinsider.com/heres-how-the-stock-market-could-tumble-or-rally-this-summer-2022-7",
+            "urlToImage": "https://i.insider.com/62bef25a9b16eb0018020bff?width=1200&format=jpeg",
+            "publishedAt": "2022-07-19T10:50:00Z",
+            "content": "Happy July 19, readers. Phil Rosen here, coming to you from NYC. On this date in 1969, Neil Armstrong and Buzz Aldrin went into orbit around the moon.\u00a0\r\nIt's been five decades since astronauts walked\u2026 [+5175 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Here's why Goldman Sachs is warning about a stock market crash and recession.",
+            "description": "Goldman CEO David Solomon and top strategists are sounding the bell on a looming economic downturn.",
+            "url": "https://www.businessinsider.com/goldman-sachs-market-crash-inflation-recession-fed-bank-finance-economy-2022-10",
+            "urlToImage": "https://i.insider.com/63598dfaea35650019e055e3?width=1200&format=jpeg",
+            "publishedAt": "2022-10-27T10:10:00Z",
+            "content": "Welcome back market watchers, Phil Rosen here. Dust off your dictionaries because today's GDP release might reignite the recession debate that's proved as semantic as it is economic.\u00a0\u00a0\r\nThe year kick\u2026 [+6082 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Martin Daks)",
+            "title": "The S&P 500 is seen as a gauge of the stock market itself \u2014 here's how this widely watched stock index works",
+            "description": "The S&P 500 is an influential stock index, a proxy of the US equity markets overall and, by implication, the US economy and its trends.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-the-sp-500",
+            "urlToImage": "https://i.insider.com/6014ac37d6c5e60019c6e123?width=1200&format=jpeg",
+            "publishedAt": "2022-08-29T15:54:33Z",
+            "content": "People often say \"The stock market is up,\" or \"The market is down.\" But the stock market is an amorphous thing, encompassing thousands of equities and dozens of stock exchanges. What they actually me\u2026 [+8323 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (John Rambow,Paul Kim)",
+            "title": "What is a bear market? How to make sense of a prolonged period of decline in the stock market and invest wisely",
+            "description": "A bear market occurs when any market drops by 20% of its most recent high point and is the opposite of a bull market.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-a-bear-market",
+            "urlToImage": "https://i.insider.com/5f6b9181e3e767001171621a?width=1200&format=jpeg",
+            "publishedAt": "2022-06-14T19:41:34Z",
+            "content": "To the average investor, a bear market can be as terrifying as a seven-foot-tall grizzly. Bear markets can lay bare the vulnerabilities in your investment portfolio and exacerbate them. This sustaine\u2026 [+9953 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "'The market is not the economy' and the July rally in the stock market was premature, top economist Mohamed El-Erian says",
+            "description": "El-Erian said a comment by Powell led investors to believe rate hikes would likely slow, but that's at odds with what the data shows.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-analysis-negative-july-rally-recession-mohamed-el-erian-2022-8",
+            "urlToImage": "https://i.insider.com/62e80275c1c56b0018b4a25f?width=1200&format=jpeg",
+            "publishedAt": "2022-08-01T17:48:29Z",
+            "content": "After suffering the worst first-half of the year since 1970, the S&amp;P 500 finished its best month in two years in July, but top economist Mohamed El-Erian isn't calling a bottom just yet, suggesti\u2026 [+2778 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The stock market could surge 18% to new highs by year-end as the 2022 bear market is over, Fundstrat says",
+            "description": "\"The biggest takeaway for me on events of this week? Convincing and arguably decisive evidence the 'bottom is in' - the 2022 bear market is over.\"",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-bear-market-over-new-sp500-highs-fundstrat-2022-7",
+            "urlToImage": "https://i.insider.com/5f4521b589aff80028ab7b9d?width=1200&format=jpeg",
+            "publishedAt": "2022-07-31T12:30:00Z",
+            "content": "The stock market could be gearing up for new record highs before year-end as the 2022 bear market is over, Fundstrat's Tom Lee said in a note on Friday.\r\n\"The biggest takeaway for me on events of thi\u2026 [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "The recent stock-market recovery is likely just a bear market rally, and 'significant risks' lie ahead says Morgan Stanley exec",
+            "description": "\"We probably are going to seeing a lot of choppiness and some potential further declines in the market,\" a Morgan Stanley exec predicted.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-bear-market-rally-morgan-stanley-high-inflation-2022-7",
+            "urlToImage": "https://i.insider.com/62e02a76bd18c30019d1e6f9?width=1200&format=jpeg",
+            "publishedAt": "2022-07-26T18:57:46Z",
+            "content": "Some investors have been encouraged by the recent uptick in stocks, but a top wealth-management executive at Morgan Stanley thinks there are signs it's only a bear-market rally and that significant d\u2026 [+1682 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "5 reasons the stock market has found its bottom and is due for more upside ahead, according to Fundstrat",
+            "description": "The last time these four signals flashed was in April 2020, which was shortly after the stock market found its bottom during the COVID-19 bear market.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-5-reasons-bullish-stocks-bottomed-upside-ahead-2022-4",
+            "urlToImage": "https://i.insider.com/5f99628469331a0011bc5a64?width=1200&format=jpeg",
+            "publishedAt": "2022-04-11T19:46:53Z",
+            "content": "In the face of rising inflation, a hawkish \r\nFederal Reserve, and the likelihood for further interest rate increases, everyone's bearish on stocks, and that's bullish, according to Fundstrat's Tom Le\u2026 [+3464 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Malcolm Ethridge)",
+            "title": "3 ways to take advantage of the stock market slump and supercharge your returns, according to a financial planner",
+            "description": "A bear market is a good time to invest more, do a Roth conversion, and sell off your biggest losers to take advantage of tax-loss harvesting.",
+            "url": "https://www.businessinsider.com/personal-finance/ways-take-advantage-stock-market-slump-2022-6",
+            "urlToImage": "https://i.insider.com/629a45953efa8c0019aac697?width=1200&format=jpeg",
+            "publishedAt": "2022-06-05T12:24:00Z",
+            "content": "It's an understatement to say the stock market has been stuck in a rut lately. And while it can be quite jarring to watch your investment returns fall further and further from last year's record high\u2026 [+4246 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Hanna Horvath)",
+            "title": "The stock market is a roller coaster right now, but there are 4 things you can do to stay resilient",
+            "description": "The most important thing to remember when the market goes down is to not panic, according to financial planner Hanna Horvath.",
+            "url": "https://www.businessinsider.com/personal-finance/strategies-for-staying-resilient-during-stock-market-fluctuations-2022-3",
+            "urlToImage": "https://i.insider.com/623232a8843ef30018e75d76?width=1200&format=jpeg",
+            "publishedAt": "2022-03-16T20:51:14Z",
+            "content": "What goes up can sometimes go down. The last few months have been a reminder that the stock market can turn extremely volatile. All the major indices the Dow, S&amp;P 500, and Nasdaq had declines of \u2026 [+5178 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@insider.com (Shalini Nagarajan)",
+            "title": "Russia's stock market to close for a 3rd week, while the clock ticks down to a key debt payment deadline",
+            "description": "Russia is due to pay $117 million on two dollar-denominated bonds Wednesday, and is widely expected to default on its payment.",
+            "url": "https://markets.businessinsider.com/news/stocks/russia-stock-market-closed-bonds-default-sovereign-debt-deadline-2022-3",
+            "urlToImage": "https://i.insider.com/622f1625cb36c100196c1221?width=1200&format=jpeg",
+            "publishedAt": "2022-03-14T11:52:45Z",
+            "content": "Russia's stock market is set to be closed for another week in an effort to keep equity prices from tumbling as the pressure from international sanctions intensifies, just as Moscow faces a debt deadl\u2026 [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Katie Oelker)",
+            "title": "Treasury stock represents the shares a company bought back in the market that remain on its balance sheet",
+            "description": "Treasury stock is the portion of previously issued shares that remain on a company's balance sheet after it has bought them back from investors.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-treasury-stock",
+            "urlToImage": "https://i.insider.com/626fee100983640018c0a99d?width=1200&format=jpeg",
+            "publishedAt": "2022-05-02T16:55:54Z",
+            "content": "When you're researching a publicly traded company as a potential investment, you'll often find that they have multiple types of stocks referred to in their financial documents. The types\u00a0available to\u2026 [+6420 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "Insider stock purchases are at the highest level in more than 2 years, potentially signaling a market bottom",
+            "description": "From May 1 to May 24, stock purchases by executives of companies within the S&P 500 hit the highest level since March 2020.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-insider-stock-buying-possible-sign-market-bottom-2022-5",
+            "urlToImage": "https://i.insider.com/6296454a3050690018310666?width=1200&format=jpeg",
+            "publishedAt": "2022-05-31T17:15:41Z",
+            "content": "Corporate executives are purchasing stock in their own companies at the highest pace since the start of the pandemic.\u00a0\r\nInsider stock purchases among S&amp;P 500 companies from May 1 to May 24 was th\u2026 [+922 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gbienasz@insider.com (Gabrielle Bienasz)",
+            "title": "BuzzFeed's stock plunged Monday, putting the company's market cap below the $315 million that AOL paid for HuffPost in 2011",
+            "description": "BuzzFeed's stock tanked on Monday. One analyst speculated it was due to lockup agreements expiring and \"non-traditional\" investors in the company.",
+            "url": "https://www.businessinsider.com/buzzfeed-stock-drops-about-40-analyst-cites-lockup-agreements-2022-6",
+            "urlToImage": "https://i.insider.com/629e57827bc6a80018b6909f?width=1200&format=jpeg",
+            "publishedAt": "2022-06-06T19:58:32Z",
+            "content": "BuzzFeed's stock dropped about 40% on Monday, putting its \r\nmarket cap below what AOL paid for HuffPost in 2011.\u00a0\r\nThe media company's market capitalization is at about $30o million, per Yahoo Financ\u2026 [+831 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "History reveals dips in the stock market caused by geopolitical turmoil 'should be bought, not sold,' Bank of America says",
+            "description": "\"Prior shocks with no fundamental, long-term implications generally offered buying opportunities: stocks more than fully recovered within three months.\"",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-bofa-buy-dip-ukraine-russia-war-2022-3",
+            "urlToImage": "https://i.insider.com/622a0ee46ec7c20019cd76d1?width=1200&format=jpeg",
+            "publishedAt": "2022-03-10T15:10:05Z",
+            "content": "Historically, geopolitical shocks, like Russia's invasion of Ukraine, are buying opportunities because stocks bounce back shortly thereafter, according to Bank of America.\u00a0\r\nSuch shocks typically spu\u2026 [+1277 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "The stock market already peaked and will 'roll over' after a few more Fed rate hikes, says Jeffrey Gundlach",
+            "description": "The Fed's rate hikes and the expected trimming of its bond holdings will be a \"double whammy\" for the stock market, Jeffrey Gundlach said.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fed-rate-hikes-rollover-downtrend-jeffrey-gundlach-2022-3",
+            "urlToImage": "https://i.insider.com/6123fbc749320300184586af?width=1200&format=jpeg",
+            "publishedAt": "2022-03-17T14:26:29Z",
+            "content": "DoubleLine Capital CEO and cofounder Jeffrey Gundlach said the stock market already peaked and predicted a downtrend after further rate hikes from the \r\nFederal Reserve.\r\nThe comments came after the \u2026 [+978 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The stock market is poised to rebound this week as corporate buybacks return, JPMorgan's quant guru says",
+            "description": "To position for upside in the stock market, JPMorgan's Marko Kolanovic recommends investors take a barbell approach to their portfolio.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-rally-rebound-sentiment-share-buybacks-marko-kolanovic-2022-4",
+            "urlToImage": "https://i.insider.com/6266cf748dd4190018585c0f?width=1200&format=jpeg",
+            "publishedAt": "2022-04-25T17:35:45Z",
+            "content": "Despite significant declines in the stock market last week and today, JPMorgan's Marko Kolanovic expects a rebound to materialize later this week.\r\nSpecifically, he believes a combination of poor inv\u2026 [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Bill Hobbs)",
+            "title": "FAANG: An acronym that stands for five very successful tech companies that can move the stock market",
+            "description": "FAANG is an acronym used by investors to describe five individual high-growth tech stocks: Facebook, Apple, Netflix, Google,  Microsoft, and Amazon.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-faang",
+            "urlToImage": "https://i.insider.com/5fa589391df1d50018219521?width=1200&format=jpeg",
+            "publishedAt": "2022-07-25T19:00:56Z",
+            "content": "If you follow the financial or business news, you may have seen or heard the term FAANG thrown around. No, it's not a misspelling of an animal's tooth. It's an acronym that stands for five big compan\u2026 [+5713 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Ramsay Lewis)",
+            "title": "A variable annuity can provide you with more retirement income, since its payouts rise with the stock market",
+            "description": "Variable annuities are insurance contracts that provide a guaranteed income stream. Their performance is tied to stocks and other investments.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-a-variable-annuity",
+            "urlToImage": "https://i.insider.com/6010b5911d2df20018b71099?width=1200&format=jpeg",
+            "publishedAt": "2022-08-26T15:13:41Z",
+            "content": "An annuity is a little like a self-funded pension: You pay an insurance company a lump sum now and, in exchange, the insurance company pays you back later, in steady installments with interest.\r\nHow \u2026 [+8332 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "The bear market isn't done yet and stock valuations are 'significantly disconnected' from reality, Morgan Stanley says",
+            "description": "Morgan Stanley said inflation likely has not eased fast enough to justify the sustained Fed pause that markets have already priced in.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-more-downside-ahead-valuations-unrealistic-morgan-stanley-2022-8",
+            "urlToImage": "https://i.insider.com/62fa6b65306b6300192ad64e?width=1200&format=jpeg",
+            "publishedAt": "2022-08-15T16:42:54Z",
+            "content": "Stocks have room to fall, and the bear market isn't finished just yet, according to Morgan Stanley equity strategist Mike Wilson.\u00a0\r\nIn a Monday note, analysts led by Wilson wrote that the equity mark\u2026 [+1192 chars]"
+        }
+    ]
+}

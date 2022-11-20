@@ -1,5 +1,4 @@
 import sqlite3
-from sqlite3.dbapi2 import Row
 
 def create_table():
     conn=sqlite3.connect("lite.db")
