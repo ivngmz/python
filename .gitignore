@@ -4,3 +4,4 @@
 **/.virtualenvs/
 !/.python-version
 !/.gitignore
+|/.other
