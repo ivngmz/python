@@ -2,4 +2,4 @@
 **/.vscode/
 **/.idea/
 **/.virtualenvs/
-**/.python-version
+.python-version
