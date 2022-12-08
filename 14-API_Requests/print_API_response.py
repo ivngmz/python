@@ -11,3 +11,4 @@ content = r.json()
 
 for article in content["articles"]:
     print(article["description"] + "\n")
+
